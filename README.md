@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jules, Im 15, Im  french
+- 👋 Hi, I’m Jules, Im 16, Im  french
 - 👀 I’m interested in dev and ethical hacking
 - 🌱 I’m currently learning in the high school
 - 💞️ I’m looking to collaborate on some projects
