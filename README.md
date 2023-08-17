@@ -2,7 +2,7 @@
 - 👀 I’m interested in dev and ethical hacking
 - 🌱 I’m currently learning in the high school
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me : Discord - ItzDragon#5299 or Twitter - @\_ItzDragon_
+- 📫 How to reach me : Discord: itzdragon or Twitter: @\_ItzDragon_
 
 <br>
 <br>
