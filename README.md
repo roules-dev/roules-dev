@@ -1,5 +1,5 @@
 **Hi**, 👋 <br>
-I’m Jules 16yo french passionate developer
+I’m Jules, 16yo french passionate developer
 
 
 
