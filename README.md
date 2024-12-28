@@ -1,5 +1,6 @@
 **Hi**, 👋 <br>
-I’m Jules, 17yo french passionate developer
+I’m Jules, 17yo french passionate developer <br>
+I'm currently learning (real) math and physics in prep school
 
 
 
