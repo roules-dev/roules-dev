@@ -1,98 +1,105 @@
 ![montainnpineforestbannerfilter](https://github.com/user-attachments/assets/7571a019-2393-4814-933a-f200caab4cec)
 <h1 align="center">Hi 👋🌱</h1>
 
-I’m **Jules**, an 18yo french passionate developer <br>
-I'm currently learning *real* math and physics in prep school
+🎯 I’m **Jules**, an 18yo french passionate developer <br>
+📖 I'm currently learning *real* math and physics in prep school
 
-<h3 align="left">Tech I use a lot</h4>
+🔭 Currently working on [ShopBot](https://github.com/DragonJules/ShopBot) <br>
+📂 I plan to learn Rust soon 
 
-###
+<br>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ocaml" height="40" alt="ocaml logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-</div>
+### 
 
-###
-
-<h3 align="left">Tech I've more or less used</h4>
+<h3 align="left">⚡ Tech I use a lot</h3>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="36" alt="discordjs logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="36" alt="npm logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=ocaml" height="36" alt="ocaml logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="36" alt="sass logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="arduino logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img src="https://skillicons.dev/icons?i=godot" height="36" alt="godot logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="36" alt="raspberrypi logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" height="36" alt="discord logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="36" alt="markdown logo"  />
 </div>
 
 ###
 
-<h3 align="left">Me on GitHub</h4>
+<h3 align="left">🧪 Tech I've experimented with</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="36" alt="kotlin logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="cplusplus logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=bash" height="36" alt="bash logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=latex" height="36" alt="latex logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=lua" height="36" alt="lua logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=codepen" height="36" alt="codepen logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="36" alt="gradle logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="androidstudio logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=electron" height="36" alt="electron logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="36" alt="heroku logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="36" alt="selenium logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="36" alt="cmake logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=ps" height="36" alt="adobephotoshop logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=ai" height="36" alt="adobeillustrator logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=blender" height="36" alt="blender logo"  />
+</div>
+
+###
+
+<h3 align="left">👨‍💻 Me on GitHub</h3>
 
 ###
 
@@ -104,8 +111,8 @@ I'm currently learning *real* math and physics in prep school
 
 ###
 
+<h3 align="left">💭 Get in touch with me !</h3>
 <div align="left">
-  <h3 align="left">Get in touch with me !</h4>
   <a href='https://www.linkedin.com/in/jules-gautherin-4b2927253/'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" /></a>
   <a href='https://x.com/roules_'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="twitter logo" /></a>
   <a href='https://discordapp.com/users/628298729405022216'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="30" alt="discord logo" /></a>
