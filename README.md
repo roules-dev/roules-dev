@@ -25,6 +25,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="36" alt="discordjs logo"  />
+  <img width="6" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="36" alt="npm logo"  />
   <img width="6" />
@@ -45,8 +47,6 @@
   <img src="https://skillicons.dev/icons?i=godot" height="36" alt="godot logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="36" alt="raspberrypi logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=discord" height="36" alt="discord logo"  />
   <img width="6" />
