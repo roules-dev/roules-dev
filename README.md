@@ -13,7 +13,7 @@
 <h3 align="left">⚡ Tech I use a lot</h3>
 
 ###
- [![Tech I use a lot](https://skillicons.dev/icons?i=vscode,git,ts,js,nodejs,npm,discordjs,ocaml,python,html,css,arduino,figma,godot,raspberrypi,discord,markdown)](https://github.com/roules-dev)
+ [![Tech I use a lot](https://skillicons.dev/icons?i=vscode,git,github,ts,js,nodejs,npm,discordjs,ocaml,python,html,css,arduino,figma,godot,raspberrypi,discord,markdown)](https://github.com/roules-dev)
 
 ###
 
