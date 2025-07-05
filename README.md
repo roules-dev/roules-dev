@@ -42,7 +42,7 @@
 <h3 align="left">💭 Get in touch with me !</h3>
 
 <div align="left" >
-  <a href='https://www.linkedin.com/in/jules-gautherin-4b2927253/'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"/></a>
+  <a href='https://www.linkedin.com/in/jules-gautherin'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"/></a>
   <img width="6"/>
   <a href='https://x.com/roules_'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="30" alt="twitter logo" /></a>
   <img width="6"/>
