@@ -13,14 +13,14 @@
 <h3 align="left">⚡ Tech I use a lot</h3>
 
 ###
- [![Tech I use a lot](https://skillicons.dev/icons?i=vscode,git,github,ts,js,nodejs,npm,discordjs,ocaml,python,html,css,arduino,figma,godot,raspberrypi,discord,markdown)](https://github.com/roules-dev)
+ [![Tech I use a lot](https://skillicons.dev/icons?i=vscode,git,github,ts,js,nodejs,npm,discordjs,ocaml,python,html,css,arduino,linux,godot,raspberrypi,discord,markdown)](https://github.com/roules-dev)
 
 ###
 
 <h3 align="left">🧪 Tech I've experimented with</h3>
 
 ###
-[![Tech I've experimented with](https://skillicons.dev/icons?i=kotlin,cpp,java,bash,latex,lua,linux,codepen,gradle,androidstudio,electron,sass,heroku,mongodb,selenium,cmake,ps,ai,blender)]([https://skillicons.dev](https://github.com/roules-dev))
+[![Tech I've experimented with](https://skillicons.dev/icons?i=kotlin,cpp,java,bash,latex,lua,figma,codepen,gradle,androidstudio,electron,sass,heroku,mongodb,selenium,cmake,ps,ai,blender)]([https://skillicons.dev](https://github.com/roules-dev))
 
 
 ###
