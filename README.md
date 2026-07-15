@@ -1,7 +1,7 @@
 ![montainnpineforestbannerfilter](https://github.com/user-attachments/assets/7571a019-2393-4814-933a-f200caab4cec)
 <h1 align="center">Hi 👋🌱</h1>
 
-- 📌 I’m **Jules**, an 18yo french passionate developer
+- 📌 I’m **Jules**, an 19yo french passionate developer
 - 📖 I'm currently learning *real* math and physics in prep school
 - 🔭 Currently working on [ShopBot](https://github.com/roules-dev/ShopBot)
 - 📂 I've started learning **Rust**
